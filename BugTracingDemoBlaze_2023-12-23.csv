@@ -1,0 +1,19 @@
+"ID","Title","Status","Creation date","Project","Description","Feedback page URL","Integration","Created in integration","Integration Status","Integration URL","Reporter email","Reporter name","Reporter role","Webpage URL","Screenshot URL","Operating system","Operating system version","Browser name","Browser version","Device type","Resolution","Viewport","Pixel ratio","Zoom factor"
+"658664d304b2d17a2674927c","Validation Number Card","open","2023-12-23T04:40:51.872Z","ardimuldian/BugTracingDemoBlaze","Steps to reproduce:
+1. Access Website, then Login Account
+2. Select Product Add To Card
+3. In POP UP Confirmation Fill Required Data
+4. In Required Data Name Input asdasdas
+5. In Required Data Card Number Input asdasdasd
+4. Klik Purchase
+
+Expected result: the card number should be of the numeric type as the name suggests, not all types of data
+","https://app.marker.io/i/658664d304b2d17a2674927c_0331362c900de8c0","github","yes","Open","https://github.com/ardimuldian/BugTracingDemoBlaze/issues/2","ardimuldian@gmail.com","Ardi Muldian","member","https://www.demoblaze.com/cart.html","https://mrkr.io/s/658664d304b2d17a26749279/0","Windows","10 (10.0.0)","Chrome","120.0.0.0","desktop","1366 x 768","1366 x 641","@1x","100%"
+"65866287d130998f0c331609","UI After Hover - (Color gradations  can't seen)","open","2023-12-23T04:31:03.874Z","ardimuldian/BugTracingDemoBlaze","Steps to reproduce:
+1. Access Site Demoblaze
+2. Click About Us
+3. In Pop UP Click Cancel
+
+Expected result: Gradation Color Can Seen
+Result Test : Gradation Color Can't Seen 
+","https://app.marker.io/i/65866287d130998f0c331609_2e98e8a71966cb62","github","yes","Open","https://github.com/ardimuldian/BugTracingDemoBlaze/issues/1","ardimuldian@gmail.com","Ardi Muldian","member","https://www.demoblaze.com/index.html","https://mrkr.io/s/65866287d130998f0c331606/0","Windows","10 (10.0.0)","Chrome","120.0.0.0","desktop","1366 x 768","1366 x 641","@1x","100%"
